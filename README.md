@@ -23,5 +23,5 @@ After checking various combination of neuron numbers the best result were for nu
 After checking types of activation function like: ReLU, Sigmoid and Tanh the best result was for ReLU.
 
 CONCLUSIONS:
-Accuracy was around 70%. Data are random so results does not make sense. Data are from Kaggle, To compare other people get similar results around 70%, the best result was 80%.
-
+Accuracy was around 70%. Data are from Kaggle, To compare other people get similar results around 70%, the best result was 80%. Data are random so results does not make sense. 
+There were not enough data to train better this model.
