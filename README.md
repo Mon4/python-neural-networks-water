@@ -13,6 +13,7 @@ Aim of project is to analyze impact hyperparameters for level of accuracy like:
 After checking for 2, 3 and 4  hidden layers, the best accuracy occured for 2 layers. For 3 and 4 layers was overfitting.
 
 Image for 2 layers.
+
 ![obraz](https://user-images.githubusercontent.com/44522588/226682650-55978aba-dcd7-4ed1-8cc1-c64afd06c0a3.png)
 
 After checking various combination of neuron numbers the best result were for number of neurons: 30, 30.
